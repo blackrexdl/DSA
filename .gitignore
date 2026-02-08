@@ -29,3 +29,5 @@ coverage/
 *.code-workspace
 .vscode 
 main
+main.dSYM
+Contents
