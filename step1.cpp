@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
 int main(){
-    cout<<"Hello Shubu!\n Welcome to C++ programming.\n";
-    return 0;
+  cout<<"Shubham"<<" Sharma" <<" Hello World!"<<endl;
+  return 0;
 }
