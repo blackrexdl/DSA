@@ -1,10 +1,10 @@
 #include <iostream>
 using namespace std;
 int main(){
-// bool isPassed = true;
- int  age =25;
- char grade ='A';
- bool isPassed = true;
-  cout<<"bool is:" <<isPassed <<endl;
+// convert char to int
+char grade = 'A';
+int value =grade;
+cout <<value << endl;
+
   return 0;
 }
