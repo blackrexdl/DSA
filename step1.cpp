@@ -1,10 +1,12 @@
 #include <iostream>
 using namespace std;
 int main(){
-  //input and output
-  double price ;
-cout << "Your price is :";
-cin >> price;
-cout << "Your price entered is :" << price <<endl;
+  //operators in c++
+  int a = 10,b =5;
+  cout << "Sum = " << (a+b) << endl;
+  cout << "Difference = " << (a-b) << endl;
+  cout << "Product = " << (a*b) << endl;
+  cout << "Division = " << (a/b) << endl;
+  
   return 0;
 }
