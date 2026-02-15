@@ -1,10 +1,10 @@
 #include <iostream>
 using namespace std;
 int main(){
-// float pi =3.14f;
+// bool isPassed = true;
  int  age =25;
  char grade ='A';
- float pi =3.14f;
-  cout<<"float is:" <<pi <<" bytes"<<endl;
+ bool isPassed = true;
+  cout<<"bool is:" <<isPassed <<endl;
   return 0;
 }
