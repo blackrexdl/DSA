@@ -7,6 +7,7 @@ int main(){
   cout << "Difference = " << (a-b) << endl;
   cout << "Product = " << (a*b) << endl;
   cout << "Division = " << (a/b) << endl;
+  cout << "Modulo = " << (a%b) << endl;//modulo operator gives the remainder of the division is 0
   
   return 0;
 }
