@@ -1,9 +1,10 @@
 #include <iostream>
 using namespace std;
 int main(){
-// char grade ='A';
+// float pi =3.14f;
  int  age =25;
  char grade ='A';
-cout<<"Size of char: " <<grade <<" bytes"<<endl;
+ float pi =3.14f;
+  cout<<"float is:" <<pi <<" bytes"<<endl;
   return 0;
 }
