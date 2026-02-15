@@ -1,10 +1,10 @@
 #include <iostream>
 using namespace std;
 int main(){
-// casting is the process of converting a variable from one type to another.
-double prize = 100.99;
-int newPrice =(int) prize;
-cout <<"New Price is: " <<newPrice <<endl;
-
+  //input and output
+  double price ;
+cout << "Your price is :";
+cin >> price;
+cout << "Your price entered is :" << price <<endl;
   return 0;
 }
